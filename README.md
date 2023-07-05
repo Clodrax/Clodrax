@@ -16,3 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=Clodrax&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+![snake gif](https://github.com/Clodrax/Clodrax/blob/output/github-contribution-grid-snake.gif)
