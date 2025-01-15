@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ℹ️ About Me:
 🔭 I’m currently studying at UNEC<br>🌱 I’m currently learning back-end development with using ASP.NET and MSSQL technologies<br>🖥️ I'm learning hosting a web server created by me
 
 
