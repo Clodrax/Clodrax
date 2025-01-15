@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at UNEC<br>🌱 I’m currently learning back-end with C# and MS SQL
+🔭 I’m currently studying at UNEC<br>🌱 I’m currently learning back-end development with using ASP.NET and MSSQL technologies 
 
 
 ## 🌐 Socials:
